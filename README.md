@@ -72,8 +72,14 @@ Once the shell is running, you can enter commands just like in a standard shell.
 | `exit`   | Exit the shell.                                 |
 
 
+## Subject
+https://cdn.intra.42.fr/pdf/pdf/136337/en.subject.pdf
+
+
 ## Teammates
 
 This project was developed collaboratively by:
 
 - **Yahya Toumi**: [GitHub Profile](https://github.com/yahyatoumi)
+
+---
